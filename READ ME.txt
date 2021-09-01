@@ -1,0 +1,3 @@
+This was my project for class 12th.
+it is recomemded to run it on Codeblocks.
+option 3 which is display all accounts requires the admin password which is 12151. masterkey is a user defined header file.  

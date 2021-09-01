@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1535992493 source:v:\c++2\new folder\bank\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+	<string.h>
+	<cstring>
+	<iomanip>
+	<ctype.h>
+	"masterKey.h"
+
+1535029253 v:\c++2\new folder\bank\masterkey.h
+
+1544509551 source:d:\bank\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+	<string.h>
+	<cstring>
+	<iomanip>
+	<ctype.h>
+	"masterKey.h"
+	<conio.h>
+
+1535029254 d:\bank\masterkey.h
+
+1544510374 source:g:\bank\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+	<string.h>
+	<cstring>
+	<iomanip>
+	<ctype.h>
+	"masterKey.h"
+	<conio.h>
+
+1535029254 g:\bank\masterkey.h
+
